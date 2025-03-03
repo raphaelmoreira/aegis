@@ -1,0 +1,121 @@
+{
+  "source_base_path": "C:/Users/raphael.moreira/source/repos/aegis/tool/docfx_project",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "Resource",
+      "output": {
+        "resource": {
+          "relative_path": "index.json"
+        }
+      }
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "divulgacao-responsavel/introducao.md",
+      "output": {
+        ".html": {
+          "relative_path": "divulgacao-responsavel/introducao.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "divulgacao-responsavel/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "divulgacao-responsavel/toc.html"
+        },
+        ".json": {
+          "relative_path": "divulgacao-responsavel/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "iniciativa/introducao.md",
+      "output": {
+        ".html": {
+          "relative_path": "iniciativa/introducao.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "iniciativa/primeiros-passos.md",
+      "output": {
+        ".html": {
+          "relative_path": "iniciativa/primeiros-passos.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "iniciativa/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "iniciativa/toc.html"
+        },
+        ".json": {
+          "relative_path": "iniciativa/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "sobre/info.md",
+      "output": {
+        ".html": {
+          "relative_path": "sobre/info.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "sobre/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "sobre/toc.html"
+        },
+        ".json": {
+          "relative_path": "sobre/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "toc.html"
+        },
+        ".json": {
+          "relative_path": "toc.json"
+        }
+      },
+      "version": ""
+    }
+  ],
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}

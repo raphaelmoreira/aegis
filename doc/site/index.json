@@ -1,0 +1,27 @@
+{
+  "divulgacao-responsavel/introducao.html": {
+    "href": "divulgacao-responsavel/introducao.html",
+    "title": "Introdução | Forjando Pentesters para o Futuro",
+    "summary": "Introdução É fundamental adotar uma abordagem abrangente e estruturada para garantir a segurança das aplicações web. Por isso, este conteúdo é embasado em referências reconhecidas, como CERT, ISC, CVE, NVD, NIST, ISO, OWASP e nas melhores práticas de Pentest, com o objetivo de fortalecer a resiliência e robustez dos ambientes digitais. Aqui, são apresentados experimentos e casos reais que exploram possíveis violações de diretrizes e melhores práticas, proporcionando uma análise crítica e aprofundada sobre segurança cibernética."
+  },
+  "index.html": {
+    "href": "index.html",
+    "title": "Seja bem vindo! | Forjando Pentesters para o Futuro",
+    "summary": "Seja bem vindo!"
+  },
+  "iniciativa/introducao.html": {
+    "href": "iniciativa/introducao.html",
+    "title": "Introdução | Forjando Pentesters para o Futuro",
+    "summary": "Introdução"
+  },
+  "iniciativa/primeiros-passos.html": {
+    "href": "iniciativa/primeiros-passos.html",
+    "title": "Primeiros Passos | Forjando Pentesters para o Futuro",
+    "summary": "Primeiros Passos"
+  },
+  "sobre/info.html": {
+    "href": "sobre/info.html",
+    "title": "Info | Forjando Pentesters para o Futuro",
+    "summary": "Info"
+  }
+}
