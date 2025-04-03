@@ -11,8 +11,8 @@
   },
   "iniciativa/introducao.html": {
     "href": "iniciativa/introducao.html",
-    "title": "Introdução | Forjando Pentesters para o Futuro",
-    "summary": "Introdução"
+    "title": "A Iniciativa | Forjando Pentesters para o Futuro",
+    "summary": "A Iniciativa A proposta deste conteúdo é fornecer um roteiro de estudo estruturado sobre segurança, com foco em aplicações web (embora não se restrinja somente a isso), visando incentivar que novos profissionais se interessem pela área. O intuído desse conteúdo é criar uma rota de aprendizagem colaborativa. Contexto Em 2001, dado as sucessivas detecções, análises e alertas generalizados referente a um worm conhecido como Li0n, criou-se o Internet Storm Center (ISC), uma central que provê análises e alertas para milhares de usuários e organizações na internet, contribuindo ativamente com os provedores de internet, no intuito de combater ataques maliciosos. O ISC coleta diariamente milhões de detecções, cobrindo mais de 500.000 endereços IP em mais de 50 países, com o apoio e suporte do instituto SANS. Essa iniciativa é mantida por voluntários que doam seu tempo para analisar e reportar incidentes de segurança, tanto pelo DShield Sensor quanto por seu elevado conhecimento na área, cunhando-se assim os Handlers. Agora, você pode trilhar um caminho que te leve a se tornar um deles, ou talvez, algo maior. Excplicado, vamos começar!"
   },
   "iniciativa/primeiros-passos.html": {
     "href": "iniciativa/primeiros-passos.html",
