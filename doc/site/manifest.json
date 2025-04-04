@@ -45,6 +45,36 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "iniciativa/atos/ato-1.md",
+      "output": {
+        ".html": {
+          "relative_path": "iniciativa/atos/ato-1.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "iniciativa/atos/ato-2.md",
+      "output": {
+        ".html": {
+          "relative_path": "iniciativa/atos/ato-2.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "iniciativa/atos/prologo.md",
+      "output": {
+        ".html": {
+          "relative_path": "iniciativa/atos/prologo.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "iniciativa/introducao.md",
       "output": {
         ".html": {
